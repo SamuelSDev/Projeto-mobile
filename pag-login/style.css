@@ -1,0 +1,30 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+.img-profile{
+    display: inline;
+    width: 20px;
+    height: 20px;
+}
+
+.img-padlock{
+    display: inline;
+    width: 20px;
+    height: 20px;
+}
+
+.link-forgotpassword{
+    display: block;
+}
+
+.b-begin-session{
+    display: block;
+}
+
+.b-start-facebook{
+    display: block;
+}
